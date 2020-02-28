@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a5e504f-cb28-4915-bbc5-dbcf77f7401a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Screenshots20200228103902.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html-cofiguration.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chromebrowser.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chromebrowser.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firefoxbrowser.xml" beforeDir="false" afterPath="$PROJECT_DIR$/firefoxbrowser.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parallelTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/parallelTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/MultiOSMultiBrowserTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/MultiBrowserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/MultiBrowserTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Screenshots20200228103902.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,10 +52,20 @@
       <recent name="C:\Users\sumey\IdeaProjects\VossAssessment\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/sumey/IdeaProjects/VossAssessment/chromebrowser.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/sumey/IdeaProjects/VossAssessment/parallelTest.xml">
     <configuration name="C:/Users/sumey/IdeaProjects/VossAssessment/chromebrowser.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="VossAssessment" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/chromebrowser.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/sumey/IdeaProjects/VossAssessment/firefoxbrowser.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="VossAssessment" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/firefoxbrowser.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -98,8 +103,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/sumey/IdeaProjects/VossAssessment/chromebrowser.xml" />
         <item itemvalue="TestNG.C:/Users/sumey/IdeaProjects/VossAssessment/parallelTest.xml" />
+        <item itemvalue="TestNG.C:/Users/sumey/IdeaProjects/VossAssessment/firefoxbrowser.xml" />
+        <item itemvalue="TestNG.C:/Users/sumey/IdeaProjects/VossAssessment/chromebrowser.xml" />
         <item itemvalue="TestNG.MultiBrowserTest.test" />
       </list>
     </recent_temporary>
@@ -145,22 +151,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1582882094157" />
-    <state width="1493" height="137" key="GridCell.Tab.0.bottom" timestamp="1582908041117">
+    <state width="1493" height="137" key="GridCell.Tab.0.bottom" timestamp="1582914834368">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="137" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582908041117" />
-    <state width="1493" height="137" key="GridCell.Tab.0.center" timestamp="1582908041117">
+    <state width="1493" height="137" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582914834368" />
+    <state width="1493" height="137" key="GridCell.Tab.0.center" timestamp="1582914834368">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="137" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582908041117" />
-    <state width="1493" height="137" key="GridCell.Tab.0.left" timestamp="1582908041117">
+    <state width="1493" height="137" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582914834368" />
+    <state width="1493" height="137" key="GridCell.Tab.0.left" timestamp="1582914834368">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="137" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582908041117" />
-    <state width="1493" height="137" key="GridCell.Tab.0.right" timestamp="1582908041117">
+    <state width="1493" height="137" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582914834368" />
+    <state width="1493" height="137" key="GridCell.Tab.0.right" timestamp="1582914834368">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="137" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582908041117" />
+    <state width="1493" height="137" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582914834368" />
     <state x="275" y="90" key="Maven.ArtifactSearchDialog" timestamp="1582858193831">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -169,5 +175,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582908182842" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1582908549096">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582908549096" />
+    <state x="463" y="149" width="609" height="526" key="find.popup" timestamp="1582911148497">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="463" y="149" width="609" height="526" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1582911148497" />
   </component>
 </project>
