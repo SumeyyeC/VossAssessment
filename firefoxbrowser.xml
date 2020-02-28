@@ -1,0 +1,10 @@
+<suite name="FireFox Browser Testing Suite">
+    <test name="Test">
+        <parameter name="browserName" value="firefox">
+        </parameter>
+        <classes>
+            <class name="MultiOSMultiBrowserTest">
+            </class>
+        </classes>
+    </test>
+</suite>

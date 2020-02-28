@@ -1,0 +1,10 @@
+<suite name="Chrome Browser Testing Suite">
+<test name="Test">
+    <parameter name="browserName" value="chrome">
+    </parameter>
+    <classes>
+        <class name="MultiOSMultiBrowserTest">
+        </class>
+    </classes>
+</test>
+</suite>
