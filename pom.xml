@@ -16,7 +16,6 @@
         <aventstack.version>4.0.9</aventstack.version>
         <slf4j.version>1.7.29</slf4j.version>
         <log4j.version>2.12.1</log4j.version>
-        <javafaker.version>1.0.1</javafaker.version>
 
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
@@ -69,13 +68,6 @@
             <groupId>com.aventstack</groupId>
             <artifactId>extentreports</artifactId>
             <version>${aventstack.version}</version>
-        </dependency>
-
-        <!-- https://mvnrepository.com/artifact/com.github.javafaker/javafaker -->
-        <dependency>
-            <groupId>com.github.javafaker</groupId>
-            <artifactId>javafaker</artifactId>
-            <version>${javafaker.version}</version>
         </dependency>
 
     </dependencies>

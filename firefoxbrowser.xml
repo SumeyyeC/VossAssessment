@@ -1,9 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
 <suite name="FireFox Browser Testing Suite">
     <test name="Test">
         <parameter name="browserName" value="firefox">
         </parameter>
         <classes>
-            <class name="MultiOSMultiBrowserTest">
+            <class name="com.MultiBrowserTest">
             </class>
         </classes>
     </test>
