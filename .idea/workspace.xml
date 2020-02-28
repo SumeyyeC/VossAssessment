@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a5e504f-cb28-4915-bbc5-dbcf77f7401a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/html-cofiguration.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/MultiBrowserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/MultiBrowserTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots20200228103902.png" beforeDir="false" />
-    </list>
+    <list default="true" id="3a5e504f-cb28-4915-bbc5-dbcf77f7401a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,10 +127,20 @@
       <option name="presentableId" value="Default" />
       <updated>1582856819983</updated>
     </task>
+    <task id="LOCAL-00001" summary="reports added">
+      <created>1582914947215</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582914947215</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="reports added" />
+    <option name="LAST_COMMIT_MESSAGE" value="reports added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="70" key="#Notifications" timestamp="1582897708514">
